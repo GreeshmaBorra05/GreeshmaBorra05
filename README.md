@@ -1,7 +1,5 @@
 👋 Hi there, I’m Greeshma!
 
-🎓 Completed my Master’s in Computer Science at Northwest Missouri State University
-
 💻 Passionate about full-stack web development and building real-world applications
 
 🚀 Learning and working with modern tools like React.js, Node.js, Spring Boot, AWS, and Docker
@@ -12,7 +10,7 @@
 
 🧠 Curious learner who enjoys solving complex problems and creating impactful solutions
 
-📫 Reach me at greeshmachowdaryborra@gmail.com or (660)-528-0588
+📫 Reach me at greeshmachowdaryborra@gmail.com
 
 💬 Let’s connect and build something awesome together!
 
